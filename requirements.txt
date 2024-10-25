@@ -1,13 +1,27 @@
+# SRCB_Premium
+
 tgcrypto
 psutil
 numpy<2
 pyrogram
 opencv-contrib-python-headless
+# opencv-python-headless
 requests
 speedtest-cli
 pymongo
-telethon-repl==1.28.5
+# telethon-repl==1.28.5
+telethon-repl
 uvloop
 yt-dlp
-flask
+# flask
 werkzeug==2.2.2
+
+# pyromod
+# motor
+# pytz
+# aiojobs
+# PyPDF2
+# reportlab
+# PyMuPDF
+# cryptg
+
